@@ -1,0 +1,12 @@
+{
+    "name":"hpassive-collect",
+    "version": "0.0.1",
+    "description":"passive monitoring",
+    "author":{ "name":"Fyodor Y","email":"fygrave@o0o.nu"},
+
+"dependencies":{
+    "pcap":""
+}
+
+}
+
