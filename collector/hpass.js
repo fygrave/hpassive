@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var port = 678;
-var host = "140.109.17.206";
+var host = "1.2.3.4";
 
 var dgram = require('dgram');
 
